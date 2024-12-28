@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @casio699
-- 🌱 I’m currently learning WEB-DEV
-- this is one of my mini-projects on my javascript-journey
+- 🌱 I’m currently growing as a full stack dev
 - 📫 How to reach me ahmad.khoder2332@gmail.com
 
 <!---
